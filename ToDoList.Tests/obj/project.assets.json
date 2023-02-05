@@ -6719,9 +6719,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/richellethorpe/Desktop/ToDoList/ToDoList.Solution/ToDoList.Tests/Test.csproj",
-      "projectName": "Test",
-      "projectPath": "/Users/richellethorpe/Desktop/ToDoList/ToDoList.Solution/ToDoList.Tests/Test.csproj",
+      "projectUniqueName": "/Users/richellethorpe/Desktop/ToDoList/ToDoList.Solution/ToDoList.Tests/Tests.csproj",
+      "projectName": "Tests",
+      "projectPath": "/Users/richellethorpe/Desktop/ToDoList/ToDoList.Solution/ToDoList.Tests/Tests.csproj",
       "packagesPath": "/Users/richellethorpe/.nuget/packages/",
       "outputPath": "/Users/richellethorpe/Desktop/ToDoList/ToDoList.Solution/ToDoList.Tests/obj/",
       "projectStyle": "PackageReference",

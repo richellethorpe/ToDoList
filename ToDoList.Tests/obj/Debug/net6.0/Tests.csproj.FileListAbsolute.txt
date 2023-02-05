@@ -1,0 +1,5 @@
+/Users/richellethorpe/Desktop/ToDoList/ToDoList.Solution/ToDoList.Tests/obj/Debug/net6.0/Tests.csproj.AssemblyReference.cache
+/Users/richellethorpe/Desktop/ToDoList/ToDoList.Solution/ToDoList.Tests/obj/Debug/net6.0/Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richellethorpe/Desktop/ToDoList/ToDoList.Solution/ToDoList.Tests/obj/Debug/net6.0/Tests.AssemblyInfoInputs.cache
+/Users/richellethorpe/Desktop/ToDoList/ToDoList.Solution/ToDoList.Tests/obj/Debug/net6.0/Tests.AssemblyInfo.cs
+/Users/richellethorpe/Desktop/ToDoList/ToDoList.Solution/ToDoList.Tests/obj/Debug/net6.0/Tests.csproj.CoreCompileInputs.cache
